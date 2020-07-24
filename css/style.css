@@ -1,0 +1,75 @@
+body {
+  background: #D09232 url('../img/bg.png') repeat 0 0;
+  background-size: 400px auto;
+  font-family: sans-serif;
+}
+
+img {
+  display: block;
+  margin: 100px auto;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.spoilerButton {
+  background: #E4E2DA;
+  border: none;
+  border-radius: 5px;
+  color: #6A551D;
+  font-size: 24px;
+  padding: 40px 0;
+  outline: none;
+  cursor: pointer;
+  margin: 0 auto 20px;
+  width: 480px;
+  display: block;
+}
+
+.spoiler {
+  background: #6A551D;
+  width: 440px;
+  margin: 0 auto 20px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.spoiler span {
+  color: #E4E2DA;
+  display: block;
+  padding: 40px 20px;
+}
+
+.goback {
+  background: #E4E2DA;
+  border: none;
+  border-radius: 5px;
+  color: #6A551D;
+  font-size: 24px;
+  padding: 40px 0;
+  outline: none;
+  cursor: pointer;
+  margin: 0 auto 20px;
+  width: 480px;
+  display: block;
+}
+
+.spoilerButton2 {
+  background: #E4E2DA;
+  border: none;
+  border-radius: 5px;
+  color: #6A551D;
+  font-size: 24px;
+  padding: 40px 0;
+  outline: none;
+  cursor: pointer;
+  margin: 0 auto 20px;
+  width: 480px;
+  display: block;
+}
+
+.athrey {
+  display: block;
+  height: 750px;
+  border-radius: 2px;
+}
