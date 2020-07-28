@@ -7,6 +7,7 @@
 
  $('.spoilerButton').on('click', function() {
    $('.spoilerButton').hide();
+   $('.spoilerButton2').hide();
    $('.spoiler').slideDown(2000);
    $('.goback').slideDown(2000);
  });
